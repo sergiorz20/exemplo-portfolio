@@ -88,9 +88,6 @@ body{
 .apresentacao__links__navegacao:hover{
     background-color: #272727;
 }
-.apresentacao__imagem {
-    margin-top: -350px;
-}
 .apresentacao__conteudo__texto a{
     text-decoration: none;
     color: #22D4FD;
